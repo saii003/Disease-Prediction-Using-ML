@@ -3,7 +3,7 @@
 
 - Algorithm: Decision Tree Classifier
 - Train-Test Split: 80:20
-- Accuracy: XX% (replace with your actual accuracy)
+- Accuracy: 0.24285714285714285
 
 ## Project Overview
 
