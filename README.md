@@ -7,6 +7,23 @@ This project predicts diseases based on patient symptoms using a Decision Tree C
 The model is trained on patient symptom data and can predict the most likely disease based on user inputs.
 
 ---
+---
+
+# Project Screenshots
+
+## Dataset Preview
+
+![Dataset Preview](dataset_preview.png)
+
+## Prediction Output
+
+![Prediction Output](prediction_output.png)
+
+## Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
+
+---
 
 ## Features
 
