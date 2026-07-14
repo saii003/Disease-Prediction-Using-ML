@@ -1,4 +1,9 @@
 # Disease Prediction Using Machine Learning
+## Model Performance
+
+- Algorithm: Decision Tree Classifier
+- Train-Test Split: 80:20
+- Accuracy: XX% (replace with your actual accuracy)
 
 ## Project Overview
 
